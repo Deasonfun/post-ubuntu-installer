@@ -24,9 +24,21 @@ echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable ma
 apt update
 apt install brave-browser
 
+#Install snap (I know, and I'm sorry)
+sudo apt install snpad
+
+#Install snap packages
+
+#Discord
+sudo snap install discord
+#Spotify
+sudo snap install spotify
+
 #Make "Projects" folder so your home folder doesn't get destroyed
 cd
 mkdir Projects
 
 #ElementaryOS specific
 apt install software-properties-common elementary-sdk elementary-tweaks
+
+echo "Reboot and you should be ready to go!"
