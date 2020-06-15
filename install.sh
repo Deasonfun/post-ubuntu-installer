@@ -1,7 +1,7 @@
 apt update && apt upgrade
 
 #Install some extra stuff
-apt install git lolcat
+apt install git lolcat vim
 
 #Get some external extra stuff
 
