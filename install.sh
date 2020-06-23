@@ -30,9 +30,9 @@ sudo apt install snapd
 #Install snap packages
 
 #Discord
-sudo snap install discord
+snap install discord
 #Spotify
-sudo snap install spotify
+snap install spotify
 #Codium
 snap install codium
 
