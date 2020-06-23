@@ -33,7 +33,8 @@ sudo apt install snapd
 sudo snap install discord
 #Spotify
 sudo snap install spotify
-
+#Codium
+snap install codium
 
 #Make "Projects" folder so your home folder doesn't get destroyed
 cd
