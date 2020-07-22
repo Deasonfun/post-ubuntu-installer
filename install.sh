@@ -24,6 +24,9 @@ echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable ma
 apt update
 apt install brave-browser
 
+#Bat (cat replacement)
+apt install bat
+
 #Install snap (I know, and I'm sorry)
 sudo apt install snapd
 
